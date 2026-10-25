@@ -70,7 +70,7 @@ def pick_averaging_method():
     
     else:
         #Display error msg and end program
-        print("Error in pick_avg_method: incorrect option picked")
+        print("Error in pick_averaging_method: incorrect option picked")
         exit()
 
 # Task 3:
