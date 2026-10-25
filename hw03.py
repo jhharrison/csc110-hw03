@@ -1,7 +1,7 @@
 """
 Name: Jae Harrison
-Peers: (add any collaborators)
-References: (anything you checked to solve this)
+Peers: none
+References: none
 """
 
 # imported modules
